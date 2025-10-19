@@ -1,7 +1,7 @@
-# 📱 Verimliliği Artıran Chrome Uzantıları: Kapsamlı İnceleme
+# Verimliliği Artıran Chrome Uzantıları: Kapsamlı İnceleme
 *Günümüzün vazgeçilmez tarayıcı araçları*
 
-## 🛡️ AdGuard Reklam Engelleyici
+## AdGuard Reklam Engelleyici
 **Sürüm:** 5.0.183
 
 Temiz bir internet deneyimi için tasarlanmış güçlü bir reklam engelleyici.
@@ -12,7 +12,7 @@ Temiz bir internet deneyimi için tasarlanmış güçlü bir reklam engelleyici.
 * Sayfa yüklenme hızını artırır
 * Veri kullanımını optimize eder
 
-## 🌐 Google Çeviri
+## Google Çeviri
 **Sürüm:** 2.0.16
 
 Anlık çeviri yapabilen güçlü bir dil asistanı.
@@ -23,7 +23,7 @@ Anlık çeviri yapabilen güçlü bir dil asistanı.
 * Metin seçerek hızlı çeviri
 * Otomatik dil algılama
 
-## 🤖 Monica: ChatGPT AI Asistanı
+## Monica: ChatGPT AI Asistanı
 **Sürüm:** 7.6.0
 
 Yapay zeka gücünü tarayıcınıza getiren akıllı asistan.
@@ -34,7 +34,7 @@ Yapay zeka gücünü tarayıcınıza getiren akıllı asistan.
 * Çoklu dil desteği
 * Kişiselleştirilmiş öneriler
 
-## 📺 RYS — Remove YouTube Suggestions
+## RYS — Remove YouTube Suggestions
 **Sürüm:** 4.3.62
 
 YouTube deneyiminizi sadeleştiren odaklanma aracı.
@@ -45,7 +45,7 @@ YouTube deneyiminizi sadeleştiren odaklanma aracı.
 * Dikkat dağıtıcı öğeleri engeller
 * Özelleştirilebilir filtreler
 
-## ✉️ SimpleLogin: Anonim E-posta
+## SimpleLogin: Anonim E-posta
 **Sürüm:** 3.0.5
 
 E-posta gizliliğinizi korumak için geliştirilmiş güvenlik aracı.
@@ -56,7 +56,7 @@ E-posta gizliliğinizi korumak için geliştirilmiş güvenlik aracı.
 * E-posta yönlendirme
 * Gizlilik odaklı tasarım
 
-## 🌙 Super Dark Mode
+## Super Dark Mode
 **Sürüm:** 6.1.2
 
 Tüm web sitelerini karanlık temaya dönüştüren göz koruyucu.
@@ -67,7 +67,7 @@ Tüm web sitelerini karanlık temaya dönüştüren göz koruyucu.
 * Pil tasarrufu
 * Göz yorgunluğunu azaltma
 
-## 👨‍💻 Wappalyzer
+## Wappalyzer
 **Sürüm:** 6.10.77
 
 Web teknolojilerini analiz eden geliştirici aracı.
@@ -78,7 +78,7 @@ Web teknolojilerini analiz eden geliştirici aracı.
 * Analitik araçları tanımlama
 * Detaylı raporlama
 
-## ⏩ YouTube için SponsorBlock
+## YouTube için SponsorBlock
 **Sürüm:** 5.11
 
 YouTube videolarındaki sponsorlu içerikleri atlayan zaman tasarruf aracı.
@@ -91,7 +91,7 @@ YouTube videolarındaki sponsorlu içerikleri atlayan zaman tasarruf aracı.
 
 ---
 
-### 💡 Son Notlar
+### Son Notlar
 
 Bu uzantılar, Chrome tarayıcınızı daha verimli ve güvenli hale getirmenize yardımcı olur. İhtiyaçlarınıza göre bir veya birkaçını seçerek internet deneyiminizi geliştirebilirsiniz.
 
